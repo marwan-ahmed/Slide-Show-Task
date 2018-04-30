@@ -1,3 +1,7 @@
+        // Auther "Marwan Ahmed"
+        // orgnazition "Code For Iraq"
+        // Manager "Heba Sattar"
+
 var slideIndex = 1;
 showSlides(slideIndex);
 
